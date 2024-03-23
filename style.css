@@ -1,0 +1,18 @@
+@import url('./font/font.css');
+
+body {
+    font-family: 'Gnu Unifont';
+    font-size: 13.5pt;
+}
+
+#header {
+    border-width: 20em;
+    border-color: #000000;
+    overflow: hidden;
+    background-color: #e676ef;
+    color: #ffffff;
+}
+
+.italic {
+    font-style: italic;
+}
